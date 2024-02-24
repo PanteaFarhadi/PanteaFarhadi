@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PanteaFarhadi
-- 👀 I’m interested in quantum computing, super conductivity and QML
-- 🌱 I’m currently learning electrical engineering
-- 💞️ I’m looking to collaborate on projects related to quantum
+- 👀 I’m interested in solide state physics, super conductivity and quantum computing
+- 🌱 I’m currently studying electrical engineering at SUT
+- 💞️ I’m looking to collaborate on projects related to quantum physics and super conductivity
 - 📫 How to reach me: Email: panteafarhadi1382@gmail.com
 - 💁‍♀️ You can read more about me in my CV attached here
 <!---
